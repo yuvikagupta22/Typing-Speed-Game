@@ -14,6 +14,6 @@ A fun and interactive web-based typing speed game built with HTML, CSS, and Java
 - HTML: Structure and layout.
 - CSS: Styling and responsiveness.
 - JavaScript: Game logic and functionality.
-Live Demo
+# Live Demo
 Check out the live demo here!
-# https://typing-speed-game-rouge.vercel.app/
+https://typing-speed-game-rouge.vercel.app/
