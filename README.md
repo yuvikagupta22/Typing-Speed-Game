@@ -4,8 +4,7 @@ A fun and interactive web-based typing speed game built with HTML, CSS, and Java
 - Dynamic Text Generation: Randomized sentences for a unique challenge every time.
 - Real-Time Scoring: Instant feedback on typing accuracy and speed.
 - User-Friendly Interface: Simple and intuitive design for seamless interaction.
-- Performance Metrics: Displays words per minute (WPM) and accuracy percentage.
-- Responsive Design: Works across all devices – desktops, tablets, and mobile.
+- Performance Metrics: Displays words per minute (WPM) and number of mistakes.
 # How to Play 🎯
 - Start the game by clicking the "Start" button.
 - Type the displayed text as quickly and accurately as possible.
